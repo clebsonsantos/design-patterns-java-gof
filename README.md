@@ -1,7 +1,7 @@
 ## DESIGN PATTERNS COM JAVA - ENTENDENDO PADRÕES DE PROJETOS
 
 
-###  S.O.L.I.D.
+### S.O.L.I.D.
 
 - Single Responsability Principle
 - Open/Close Principle
@@ -9,4 +9,7 @@
 - Interface Segregation Principle
 - Dependency Inversion Principle
 
+### DESIGN PATTERNS
 
+- Factory Method
+- Abstract Factory
