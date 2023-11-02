@@ -4,8 +4,9 @@ import br.com.hcode.bridge.platforms.Facebook;
 import br.com.hcode.bridge.platforms.IPlatform;
 import br.com.hcode.bridge.platforms.TwitchTV;
 import br.com.hcode.bridge.platforms.YouTube;
-import br.com.hcode.bridge.transmissions.AdvancedLive;
+// import br.com.hcode.bridge.transmissions.AdvancedLive;
 // import br.com.hcode.bridge.transmissions.Live;
+import br.com.hcode.bridge.transmissions.RecordLive;
 
 public class Main {
 
@@ -23,12 +24,20 @@ public class Main {
          * live.result();
          * 
          */
-        System.out.println("Transmissão avançada...aguarde");
-        AdvancedLive advancedLive = new AdvancedLive(platform);
-        advancedLive.broadcasting();
-        advancedLive.comments();
-        advancedLive.subtitles();
-        advancedLive.result();
+
+        /*
+         * System.out.println("Transmissão avançada...aguarde");
+         * AdvancedLive advancedLive = new AdvancedLive(platform);
+         * advancedLive.broadcasting();
+         * advancedLive.comments();
+         * advancedLive.subtitles();
+         * advancedLive.result();
+         */
+        System.out.println("Transmissão com Gravação");
+        RecordLive recordLive = new RecordLive(platform);
+        recordLive.broadcasting();
+        recordLive.record();
+        recordLive.record();
 
     }
 }
