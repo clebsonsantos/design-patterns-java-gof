@@ -15,3 +15,4 @@
 - Abstract Factory
 - Builder
 - Adapter
+- Bridge
