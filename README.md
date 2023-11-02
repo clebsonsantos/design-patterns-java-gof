@@ -11,11 +11,19 @@
 
 ### DESIGN PATTERNS
 
-1. Factory Method
-2. Abstract Factory
-3. Builder
-4. Adapter
-5. Bridge
-6. Chain of Responsability
-7. Proxy
+#### Padrões de Criação:
+
+  1. Factory Method
+  2. Abstract Factory
+  3. Builder
+
+#### Padrões de Estrutura:
+
+  1. Adapter
+  2. Bridge
+  3. Proxy
+
+#### Padrões de Comportamento:
+
+  1. Chain of Responsability
 
