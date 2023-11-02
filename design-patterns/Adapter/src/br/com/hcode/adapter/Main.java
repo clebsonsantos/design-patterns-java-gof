@@ -1,9 +1,9 @@
 package br.com.hcode.adapter;
 
 import br.com.hcode.adapter.adapters.MercadoPagoAdapter;
-import br.com.hcode.adapter.adapters.PayoneerAdapter;
+// import br.com.hcode.adapter.adapters.PayoneerAdapter;
 import br.com.hcode.adapter.mercadopago.MercadoPago;
-import br.com.hcode.adapter.payoneer.Payoneer;
+// import br.com.hcode.adapter.payoneer.Payoneer;
 import br.com.hcode.adapter.paypal.IPayPalPayments;
 
 public class Main {
