@@ -16,3 +16,4 @@
 - Builder
 - Adapter
 - Bridge
+- Chain of Responsability
