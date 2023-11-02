@@ -26,4 +26,5 @@
 #### Padrões de Comportamento:
 
   1. Chain of Responsability
+  2. Command
 
