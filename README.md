@@ -27,4 +27,5 @@
 
   1. Chain of Responsability
   2. Command
+  3. Observer
 
