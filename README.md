@@ -14,7 +14,7 @@
 O livro "Design Patterns: Elements of Reusable Object-Oriented Software," frequentemente chamado de "Gang of Four" (GoF), apresenta 23 padrões de projeto. Aqui está uma lista de todos os 23 padrões de projeto GoF:
 
 **Padrões de Criação (Creational Patterns):**
-1. **Singleton**: Garante que uma classe tenha apenas uma instância e fornece um ponto de acesso global a essa instância. 
+1. **Singleton**: Garante que uma classe tenha apenas uma instância e fornece um ponto de acesso global a essa instância. ✅
 
 2. **Factory Method**: Define uma interface para a criação de um objeto, mas permite às subclasses alterar o tipo de objetos que serão criados. ✅
 
