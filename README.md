@@ -22,7 +22,7 @@ O livro "Design Patterns: Elements of Reusable Object-Oriented Software," freque
 
 4. **Builder**: Separar a construção de um objeto complexo da sua representação, permitindo a mesma construção ser usada para criar diferentes representações. ✅
 
-5. **Prototype**: Cria novos objetos copiando um objeto existente, conhecido como protótipo.
+5. **Prototype**: Cria novos objetos copiando um objeto existente, conhecido como protótipo. ✅
 
 **Padrões Estruturais (Structural Patterns):**
 
