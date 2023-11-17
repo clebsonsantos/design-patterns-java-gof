@@ -62,6 +62,6 @@ O livro "Design Patterns: Elements of Reusable Object-Oriented Software," freque
 
 22. **Template Method**: Define o esqueleto de um algoritmo em uma operação, adiando alguns passos para subclasses. O Template Method permite que as subclasses redefinam certos passos de um algoritmo sem alterar sua estrutura.
 
-23. **Visitor**: Representa uma operação a ser executada nos elementos de uma estrutura de objetos. Permite definir uma nova operação sem alterar as classes dos elementos em que opera.
+23. **Visitor**: Representa uma operação a ser executada nos elementos de uma estrutura de objetos. Permite definir uma nova operação sem alterar as classes dos elementos em que opera. ✅
 
 Cada um desses padrões de projeto aborda um problema específico de design de software e fornece uma solução testada e comprovada. Eles são amplamente usados na prática para melhorar a organização, flexibilidade e manutenibilidade do código.
