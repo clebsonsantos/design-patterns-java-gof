@@ -52,7 +52,7 @@ O livro "Design Patterns: Elements of Reusable Object-Oriented Software," freque
 
 17. **Mediator**: Define um objeto que encapsula a maneira como um conjunto de objetos interage. Promove o baixo acoplamento entre objetos.
 
-18. **Memento**: Captura e externaliza o estado interno de um objeto para que o objeto possa ser restaurado para esse estado mais tarde.
+18. **Memento**: Captura e externaliza o estado interno de um objeto para que o objeto possa ser restaurado para esse estado mais tarde. ✅
 
 19. **Observer**: Define uma dependência um-para-muitos entre objetos, para que quando um objeto muda de estado, todos os seus observadores sejam notificados e atualizados automaticamente. ✅
 
