@@ -58,7 +58,7 @@ O livro "Design Patterns: Elements of Reusable Object-Oriented Software," freque
 
 20. **State**: Permite a um objeto alterar seu comportamento quando seu estado interno muda. O objeto parecerá ter mudado sua classe.
 
-21. **Strategy**: Define uma família de algoritmos, encapsula cada um deles e os torna intercambiáveis. Estratégia permite que o algoritmo varie independentemente dos clientes que o usam.
+21. **Strategy**: Define uma família de algoritmos, encapsula cada um deles e os torna intercambiáveis. Estratégia permite que o algoritmo varie independentemente dos clientes que o usam. ✅
 
 22. **Template Method**: Define o esqueleto de um algoritmo em uma operação, adiando alguns passos para subclasses. O Template Method permite que as subclasses redefinam certos passos de um algoritmo sem alterar sua estrutura.
 
