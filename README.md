@@ -30,7 +30,7 @@ O livro "Design Patterns: Elements of Reusable Object-Oriented Software," freque
 
 7. **Bridge**: Separa uma abstração de sua implementação, permitindo que ambas possam variar independentemente. ✅
 
-8. **Composite**: Componha objetos em estruturas de árvore para representar hierarquias parte-todo.
+8. **Composite**: Componha objetos em estruturas de árvore para representar hierarquias parte-todo. ✅
 
 9. **Decorator**: Anexa responsabilidades adicionais a um objeto dinamicamente. Os decoradores fornecem uma alternativa flexível à herança para estender funcionalidades.
 
